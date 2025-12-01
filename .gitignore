@@ -1,6 +1,6 @@
 a.exe
 input.txt
 example.txt
-/target/
+target/
 Cargo.lock
 
