@@ -3,4 +3,6 @@ input.txt
 example.txt
 target/
 Cargo.lock
+main
+*.out
 
